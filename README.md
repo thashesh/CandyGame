@@ -1,4 +1,4 @@
-/*************************************************************
+*************************************************************
  *                     BOX CATCHING GAME                     *
  *************************************************************
  * This program is a simple box catching game implemented in C.
@@ -8,4 +8,4 @@
  * using keyboard input. The player earns points for catching
  * the falling boxes within a certain range. The game ends when
  * the player misses a box and loses all their lives.
- ************************************************************/
+ ************************************************************
