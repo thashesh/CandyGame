@@ -10,7 +10,8 @@
  * the player misses a box and loses all their lives.
  ************************************************************
 
-Uploading CandyGame.mp4…
+
+https://github.com/thashesh/CandyGame/assets/102394347/6f62ecdc-63a8-424b-955a-1517be5610fa
 
  Functionality:
  
